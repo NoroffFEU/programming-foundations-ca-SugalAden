@@ -11,4 +11,4 @@ This object contains these following properties:
 5. Display(String),this property shows what kind of display is available on the console.
 6. Colors(Array), this property shows what kind of colors that i own of the console.
 7. isOn(Boolean), this property shows the power-status of the console.
-8. power(Function), this property is a function. What this function does is that, in the object i say "isOn = false" which means that the console is currently off. But by saying "console.isOn = !console.isOn the property get reversed into "true".
+8. power(Function), this property is a function. What this function does is that, if the power of the console is set to "true" it logs "Power ON" if not it´ll log "Power OFF".
