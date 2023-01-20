@@ -1,6 +1,6 @@
 const console = {
   brand: "Sony Computer Entertainment, Playstation 5",
-  price: 7.29,
+  price: 7.292,
   releaseYear: 2020,
   weight: 4.5,
   display: "Hdmi",
